@@ -1,7 +1,7 @@
 {
     "servers": [
       {
-        "host": "sv.gtaviet.net",
+        "host": "sa-mp.vn",
         "port": "7777"
       }
     ]
