@@ -1,7 +1,7 @@
 {
     "servers": [
       {
-        "host": "sa-mp.vn",
+        "host": "sv.sa-mp.vn",
         "port": "7777"
       }
     ]
