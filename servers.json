@@ -3,6 +3,10 @@
       {
         "host": "sv.sa-mp.vn",
         "port": "7777"
+      },
+      {
+        "host": "sv.sa-mp.vn",
+        "port": "7780"
       }
     ]
   }
