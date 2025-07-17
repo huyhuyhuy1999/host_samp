@@ -3,7 +3,7 @@
     "app_beta_status": false,
     "game_version": "1.0.5",
     "game_url": "https://github.com/huyhuyhuy1999/host_samp/raw/refs/heads/main/sa-mp.apk",
-    "samp_list_url": "http://14.225.207.220//datamobile/samp_list.json",
-    "full_list_url": "http://14.225.207.220//datamobile/lite_list.json",
-    "lite_list_url": "http://14.225.207.220//datamobile/full_list.json"
+    "samp_list_url": "http://14.225.207.220/datamobile/samp_list.json",
+    "full_list_url": "http://14.225.207.220/datamobile/lite_list.json",
+    "lite_list_url": "http://14.225.207.220/datamobile/full_list.json"
 }
