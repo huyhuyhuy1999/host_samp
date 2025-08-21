@@ -1,6 +1,13 @@
 {
     "files": [
         {
+            "name": "chatlog.txt",
+            "size": "8217",
+            "path": "SAMP/chatlog.txt",
+            "url": "http://14.225.207.220/datamobile/files/SAMP/chatlog.txt",
+            "gpu": "all"
+        },
+        {
             "name": "gta.dat",
             "size": "3789",
             "path": "SAMP/gta.dat",
@@ -19,6 +26,13 @@
             "size": "96997",
             "path": "SAMP/main.scm",
             "url": "http://14.225.207.220/datamobile/files/SAMP/main.scm",
+            "gpu": "all"
+        },
+        {
+            "name": "menu_settings.ini",
+            "size": "418",
+            "path": "SAMP/menu_settings.ini",
+            "url": "http://14.225.207.220/datamobile/files/SAMP/menu_settings.ini",
             "gpu": "all"
         },
         {
@@ -44,7 +58,7 @@
         },
         {
             "name": "settings.json",
-            "size": "863",
+            "size": "902",
             "path": "SAMP/settings.json",
             "url": "http://14.225.207.220/datamobile/files/SAMP/settings.json",
             "gpu": "all"
@@ -78,6 +92,13 @@
             "gpu": "all"
         },
         {
+            "name": "vehicleAudioSettings.cfg",
+            "size": "56871",
+            "path": "SAMP/vehicleAudioSettings.cfg",
+            "url": "http://14.225.207.220/datamobile/files/SAMP/vehicleAudioSettings.cfg",
+            "gpu": "all"
+        },
+        {
             "name": "vehicles.ide",
             "size": "21093",
             "path": "SAMP/vehicles.ide",
@@ -107,70 +128,70 @@
         },
         {
             "name": "samp.dxt.dat",
-            "size": "22144848",
+            "size": "22455446",
             "path": "texdb/samp/samp.dxt.dat",
             "url": "http://14.225.207.220/datamobile/files/texdb/samp/samp.dxt.dat",
             "gpu": "dxt"
         },
         {
             "name": "samp.dxt.tmb",
-            "size": "21376",
+            "size": "22416",
             "path": "texdb/samp/samp.dxt.tmb",
             "url": "http://14.225.207.220/datamobile/files/texdb/samp/samp.dxt.tmb",
             "gpu": "dxt"
         },
         {
             "name": "samp.dxt.toc",
-            "size": "6176",
+            "size": "6228",
             "path": "texdb/samp/samp.dxt.toc",
             "url": "http://14.225.207.220/datamobile/files/texdb/samp/samp.dxt.toc",
             "gpu": "dxt"
         },
         {
             "name": "samp.etc.dat",
-            "size": "33279656",
+            "size": "33590254",
             "path": "texdb/samp/samp.etc.dat",
             "url": "http://14.225.207.220/datamobile/files/texdb/samp/samp.etc.dat",
             "gpu": "etc"
         },
         {
             "name": "samp.etc.tmb",
-            "size": "21376",
+            "size": "22416",
             "path": "texdb/samp/samp.etc.tmb",
             "url": "http://14.225.207.220/datamobile/files/texdb/samp/samp.etc.tmb",
             "gpu": "etc"
         },
         {
             "name": "samp.etc.toc",
-            "size": "6176",
+            "size": "6228",
             "path": "texdb/samp/samp.etc.toc",
             "url": "http://14.225.207.220/datamobile/files/texdb/samp/samp.etc.toc",
             "gpu": "etc"
         },
         {
             "name": "samp.pvr.dat",
-            "size": "13894248",
+            "size": "14204846",
             "path": "texdb/samp/samp.pvr.dat",
             "url": "http://14.225.207.220/datamobile/files/texdb/samp/samp.pvr.dat",
             "gpu": "pvr"
         },
         {
             "name": "samp.pvr.tmb",
-            "size": "21376",
+            "size": "22416",
             "path": "texdb/samp/samp.pvr.tmb",
             "url": "http://14.225.207.220/datamobile/files/texdb/samp/samp.pvr.tmb",
             "gpu": "pvr"
         },
         {
             "name": "samp.pvr.toc",
-            "size": "6176",
+            "size": "6228",
             "path": "texdb/samp/samp.pvr.toc",
             "url": "http://14.225.207.220/datamobile/files/texdb/samp/samp.pvr.toc",
             "gpu": "pvr"
         },
         {
             "name": "samp.txt",
-            "size": "89582",
+            "size": "90510",
             "path": "texdb/samp/samp.txt",
             "url": "http://14.225.207.220/datamobile/files/texdb/samp/samp.txt",
             "gpu": "all"
@@ -184,7 +205,7 @@
         },
         {
             "name": "samp.unc.tmb",
-            "size": "22528",
+            "size": "26064",
             "path": "texdb/samp/samp.unc.tmb",
             "url": "http://14.225.207.220/datamobile/files/texdb/samp/samp.unc.tmb",
             "gpu": "unc"
