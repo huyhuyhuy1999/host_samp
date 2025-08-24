@@ -2,7 +2,7 @@
     "files": [
         {
             "name": "chatlog.txt",
-            "size": "8217",
+            "size": "255",
             "path": "SAMP/chatlog.txt",
             "url": "http://14.225.207.220/datamobile/files/SAMP/chatlog.txt",
             "gpu": "all"
@@ -44,7 +44,7 @@
         },
         {
             "name": "SAMP.ide",
-            "size": "103091",
+            "size": "89349",
             "path": "SAMP/SAMP.ide",
             "url": "http://14.225.207.220/datamobile/files/SAMP/SAMP.ide",
             "gpu": "all"
@@ -58,7 +58,7 @@
         },
         {
             "name": "settings.json",
-            "size": "902",
+            "size": "895",
             "path": "SAMP/settings.json",
             "url": "http://14.225.207.220/datamobile/files/SAMP/settings.json",
             "gpu": "all"
