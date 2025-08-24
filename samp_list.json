@@ -1,13 +1,6 @@
 {
     "files": [
         {
-            "name": "chatlog.txt",
-            "size": "255",
-            "path": "SAMP/chatlog.txt",
-            "url": "http://14.225.207.220/datamobile/files/SAMP/chatlog.txt",
-            "gpu": "all"
-        },
-        {
             "name": "gta.dat",
             "size": "3789",
             "path": "SAMP/gta.dat",
@@ -26,13 +19,6 @@
             "size": "96997",
             "path": "SAMP/main.scm",
             "url": "http://14.225.207.220/datamobile/files/SAMP/main.scm",
-            "gpu": "all"
-        },
-        {
-            "name": "menu_settings.ini",
-            "size": "418",
-            "path": "SAMP/menu_settings.ini",
-            "url": "http://14.225.207.220/datamobile/files/SAMP/menu_settings.ini",
             "gpu": "all"
         },
         {
@@ -61,13 +47,6 @@
             "size": "895",
             "path": "SAMP/settings.json",
             "url": "http://14.225.207.220/datamobile/files/SAMP/settings.json",
-            "gpu": "all"
-        },
-        {
-            "name": "svlog.txt",
-            "size": "167",
-            "path": "SAMP/svlog.txt",
-            "url": "http://14.225.207.220/datamobile/files/SAMP/svlog.txt",
             "gpu": "all"
         },
         {
