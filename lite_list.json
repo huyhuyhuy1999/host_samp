@@ -646,7 +646,7 @@
         },
         {
             "name": "vehicles.ide",
-            "size": "21093",
+            "size": "22069",
             "path": "data/vehicles.ide",
             "url": "http://14.225.207.220/datamobile/files/data/vehicles.ide",
             "gpu": "all"
