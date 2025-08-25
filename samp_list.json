@@ -9,7 +9,7 @@
         },
         {
             "name": "handling.cfg",
-            "size": "66404",
+            "size": "66878",
             "path": "SAMP/handling.cfg",
             "url": "http://14.225.207.220/datamobile/files/SAMP/handling.cfg",
             "gpu": "all"
@@ -72,14 +72,14 @@
         },
         {
             "name": "vehicleAudioSettings.cfg",
-            "size": "48358",
+            "size": "49029",
             "path": "SAMP/vehicleAudioSettings.cfg",
             "url": "http://14.225.207.220/datamobile/files/SAMP/vehicleAudioSettings.cfg",
             "gpu": "all"
         },
         {
             "name": "vehicles.ide",
-            "size": "21839",
+            "size": "21873",
             "path": "SAMP/vehicles.ide",
             "url": "http://14.225.207.220/datamobile/files/SAMP/vehicles.ide",
             "gpu": "all"
