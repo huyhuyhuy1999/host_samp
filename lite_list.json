@@ -2312,14 +2312,14 @@
         },
         {
             "name": "vehs_1.dxt.dat",
-            "size": "233434954",
+            "size": "230291136",
             "path": "texdb/vehs_1/vehs_1.dxt.dat",
             "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/vehs_1.dxt.dat",
             "gpu": "dxt"
         },
         {
             "name": "vehs_1.dxt.tmb",
-            "size": "33296",
+            "size": "33200",
             "path": "texdb/vehs_1/vehs_1.dxt.tmb",
             "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/vehs_1.dxt.tmb",
             "gpu": "dxt"
@@ -2333,14 +2333,14 @@
         },
         {
             "name": "vehs_1.etc.dat",
-            "size": "233434954",
+            "size": "230291136",
             "path": "texdb/vehs_1/vehs_1.etc.dat",
             "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/vehs_1.etc.dat",
             "gpu": "etc"
         },
         {
             "name": "vehs_1.etc.tmb",
-            "size": "33296",
+            "size": "33200",
             "path": "texdb/vehs_1/vehs_1.etc.tmb",
             "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/vehs_1.etc.tmb",
             "gpu": "etc"
@@ -2354,14 +2354,14 @@
         },
         {
             "name": "vehs_1.pvr.dat",
-            "size": "233434954",
+            "size": "230291136",
             "path": "texdb/vehs_1/vehs_1.pvr.dat",
             "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/vehs_1.pvr.dat",
             "gpu": "pvr"
         },
         {
             "name": "vehs_1.pvr.tmb",
-            "size": "33296",
+            "size": "33200",
             "path": "texdb/vehs_1/vehs_1.pvr.tmb",
             "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/vehs_1.pvr.tmb",
             "gpu": "pvr"
