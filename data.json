@@ -1579,13 +1579,13 @@
     },
     {
         "name": "gta3.etc.dat",
-        "size": "185311596",
+        "size": "229432902",
         "path": "texdb/gta3/",
         "url": "http://14.225.207.220/datamobile/files-2.1/texdb/gta3/gta3.etc.dat"
     },
     {
         "name": "gta3.etc.tmb",
-        "size": "525340",
+        "size": "543772",
         "path": "texdb/gta3/",
         "url": "http://14.225.207.220/datamobile/files-2.1/texdb/gta3/gta3.etc.tmb"
     },
@@ -1597,7 +1597,7 @@
     },
     {
         "name": "gta3.txt",
-        "size": "792665",
+        "size": "790689",
         "path": "texdb/gta3/",
         "url": "http://14.225.207.220/datamobile/files-2.1/texdb/gta3/gta3.txt"
     },
