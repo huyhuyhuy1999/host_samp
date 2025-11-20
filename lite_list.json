@@ -1738,7 +1738,7 @@
         },
         {
             "name": "peds.img",
-            "size": "151910400",
+            "size": "286164992",
             "path": "texdb/peds.img",
             "url": "http://14.225.207.220/datamobile/files/texdb/peds.img",
             "gpu": "all"
@@ -1752,9 +1752,23 @@
         },
         {
             "name": "vehs_1.img",
-            "size": "124311552",
+            "size": "154763264",
             "path": "texdb/vehs_1.img",
             "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1.img",
+            "gpu": "all"
+        },
+        {
+            "name": "vehs_2.img",
+            "size": "103405568",
+            "path": "texdb/vehs_2.img",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_2.img",
+            "gpu": "all"
+        },
+        {
+            "name": "vehs_3.img",
+            "size": "81903616",
+            "path": "texdb/vehs_3.img",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_3.img",
             "gpu": "all"
         },
         {
@@ -2066,74 +2080,53 @@
             "gpu": "unc"
         },
         {
-            "name": "peds.dxt.dat",
-            "size": "251127754",
-            "path": "texdb/peds/peds.dxt.dat",
-            "url": "http://14.225.207.220/datamobile/files/texdb/peds/peds.dxt.dat",
-            "gpu": "dxt"
-        },
-        {
-            "name": "peds.dxt.tmb",
-            "size": "34720",
-            "path": "texdb/peds/peds.dxt.tmb",
-            "url": "http://14.225.207.220/datamobile/files/texdb/peds/peds.dxt.tmb",
-            "gpu": "dxt"
-        },
-        {
-            "name": "peds.dxt.toc",
-            "size": "2332",
-            "path": "texdb/peds/peds.dxt.toc",
-            "url": "http://14.225.207.220/datamobile/files/texdb/peds/peds.dxt.toc",
-            "gpu": "dxt"
-        },
-        {
-            "name": "peds.etc.dat",
-            "size": "251127754",
-            "path": "texdb/peds/peds.etc.dat",
-            "url": "http://14.225.207.220/datamobile/files/texdb/peds/peds.etc.dat",
+            "name": "samp.etc.dat",
+            "size": "284317448",
+            "path": "texdb/peds/samp.etc.dat",
+            "url": "http://14.225.207.220/datamobile/files/texdb/peds/samp.etc.dat",
             "gpu": "etc"
         },
         {
-            "name": "peds.etc.tmb",
-            "size": "34720",
-            "path": "texdb/peds/peds.etc.tmb",
-            "url": "http://14.225.207.220/datamobile/files/texdb/peds/peds.etc.tmb",
+            "name": "samp.etc.tmb",
+            "size": "25968",
+            "path": "texdb/peds/samp.etc.tmb",
+            "url": "http://14.225.207.220/datamobile/files/texdb/peds/samp.etc.tmb",
             "gpu": "etc"
         },
         {
-            "name": "peds.etc.toc",
-            "size": "2332",
-            "path": "texdb/peds/peds.etc.toc",
-            "url": "http://14.225.207.220/datamobile/files/texdb/peds/peds.etc.toc",
+            "name": "samp.etc.toc",
+            "size": "1816",
+            "path": "texdb/peds/samp.etc.toc",
+            "url": "http://14.225.207.220/datamobile/files/texdb/peds/samp.etc.toc",
             "gpu": "etc"
         },
         {
-            "name": "peds.pvr.dat",
-            "size": "251127754",
-            "path": "texdb/peds/peds.pvr.dat",
-            "url": "http://14.225.207.220/datamobile/files/texdb/peds/peds.pvr.dat",
-            "gpu": "pvr"
-        },
-        {
-            "name": "peds.pvr.tmb",
-            "size": "34720",
-            "path": "texdb/peds/peds.pvr.tmb",
-            "url": "http://14.225.207.220/datamobile/files/texdb/peds/peds.pvr.tmb",
-            "gpu": "pvr"
-        },
-        {
-            "name": "peds.pvr.toc",
-            "size": "2332",
-            "path": "texdb/peds/peds.pvr.toc",
-            "url": "http://14.225.207.220/datamobile/files/texdb/peds/peds.pvr.toc",
-            "gpu": "pvr"
-        },
-        {
-            "name": "peds.txt",
-            "size": "37072",
-            "path": "texdb/peds/peds.txt",
-            "url": "http://14.225.207.220/datamobile/files/texdb/peds/peds.txt",
+            "name": "samp.txt",
+            "size": "24415",
+            "path": "texdb/peds/samp.txt",
+            "url": "http://14.225.207.220/datamobile/files/texdb/peds/samp.txt",
             "gpu": "all"
+        },
+        {
+            "name": "samp.unc.dat",
+            "size": "33150952",
+            "path": "texdb/peds/samp.unc.dat",
+            "url": "http://14.225.207.220/datamobile/files/texdb/peds/samp.unc.dat",
+            "gpu": "unc"
+        },
+        {
+            "name": "samp.unc.tmb",
+            "size": "122832",
+            "path": "texdb/peds/samp.unc.tmb",
+            "url": "http://14.225.207.220/datamobile/files/texdb/peds/samp.unc.tmb",
+            "gpu": "unc"
+        },
+        {
+            "name": "samp.unc.toc",
+            "size": "6156",
+            "path": "texdb/peds/samp.unc.toc",
+            "url": "http://14.225.207.220/datamobile/files/texdb/peds/samp.unc.toc",
+            "gpu": "unc"
         },
         {
             "name": "player.pvr.dat",
@@ -2290,74 +2283,151 @@
             "gpu": "unc"
         },
         {
-            "name": "vehs_1.dxt.dat",
-            "size": "201653456",
-            "path": "texdb/vehs_1/vehs_1.dxt.dat",
-            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/vehs_1.dxt.dat",
-            "gpu": "dxt"
-        },
-        {
-            "name": "vehs_1.dxt.tmb",
-            "size": "26576",
-            "path": "texdb/vehs_1/vehs_1.dxt.tmb",
-            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/vehs_1.dxt.tmb",
-            "gpu": "dxt"
-        },
-        {
-            "name": "vehs_1.dxt.toc",
-            "size": "1896",
-            "path": "texdb/vehs_1/vehs_1.dxt.toc",
-            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/vehs_1.dxt.toc",
-            "gpu": "dxt"
-        },
-        {
-            "name": "vehs_1.etc.dat",
-            "size": "201653456",
-            "path": "texdb/vehs_1/vehs_1.etc.dat",
-            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/vehs_1.etc.dat",
+            "name": "samp.etc.dat",
+            "size": "318713328",
+            "path": "texdb/vehs_1/samp.etc.dat",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/samp.etc.dat",
             "gpu": "etc"
         },
         {
-            "name": "vehs_1.etc.tmb",
-            "size": "26576",
-            "path": "texdb/vehs_1/vehs_1.etc.tmb",
-            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/vehs_1.etc.tmb",
+            "name": "samp.etc.tmb",
+            "size": "36528",
+            "path": "texdb/vehs_1/samp.etc.tmb",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/samp.etc.tmb",
             "gpu": "etc"
         },
         {
-            "name": "vehs_1.etc.toc",
-            "size": "1896",
-            "path": "texdb/vehs_1/vehs_1.etc.toc",
-            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/vehs_1.etc.toc",
+            "name": "samp.etc.toc",
+            "size": "2496",
+            "path": "texdb/vehs_1/samp.etc.toc",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/samp.etc.toc",
             "gpu": "etc"
         },
         {
-            "name": "vehs_1.pvr.dat",
-            "size": "201653456",
-            "path": "texdb/vehs_1/vehs_1.pvr.dat",
-            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/vehs_1.pvr.dat",
-            "gpu": "pvr"
-        },
-        {
-            "name": "vehs_1.pvr.tmb",
-            "size": "26576",
-            "path": "texdb/vehs_1/vehs_1.pvr.tmb",
-            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/vehs_1.pvr.tmb",
-            "gpu": "pvr"
-        },
-        {
-            "name": "vehs_1.pvr.toc",
-            "size": "1896",
-            "path": "texdb/vehs_1/vehs_1.pvr.toc",
-            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/vehs_1.pvr.toc",
-            "gpu": "pvr"
-        },
-        {
-            "name": "vehs_1.txt",
-            "size": "29070",
-            "path": "texdb/vehs_1/vehs_1.txt",
-            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/vehs_1.txt",
+            "name": "samp.txt",
+            "size": "34020",
+            "path": "texdb/vehs_1/samp.txt",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/samp.txt",
             "gpu": "all"
+        },
+        {
+            "name": "samp.unc.dat",
+            "size": "33150952",
+            "path": "texdb/vehs_1/samp.unc.dat",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/samp.unc.dat",
+            "gpu": "unc"
+        },
+        {
+            "name": "samp.unc.tmb",
+            "size": "169072",
+            "path": "texdb/vehs_1/samp.unc.tmb",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/samp.unc.tmb",
+            "gpu": "unc"
+        },
+        {
+            "name": "samp.unc.toc",
+            "size": "6156",
+            "path": "texdb/vehs_1/samp.unc.toc",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_1/samp.unc.toc",
+            "gpu": "unc"
+        },
+        {
+            "name": "samp.etc.dat",
+            "size": "248830832",
+            "path": "texdb/vehs_2/samp.etc.dat",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_2/samp.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "samp.etc.tmb",
+            "size": "21664",
+            "path": "texdb/vehs_2/samp.etc.tmb",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_2/samp.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "samp.etc.toc",
+            "size": "1492",
+            "path": "texdb/vehs_2/samp.etc.toc",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_2/samp.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "samp.txt",
+            "size": "20255",
+            "path": "texdb/vehs_2/samp.txt",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_2/samp.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.unc.dat",
+            "size": "33150952",
+            "path": "texdb/vehs_2/samp.unc.dat",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_2/samp.unc.dat",
+            "gpu": "unc"
+        },
+        {
+            "name": "samp.unc.tmb",
+            "size": "101184",
+            "path": "texdb/vehs_2/samp.unc.tmb",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_2/samp.unc.tmb",
+            "gpu": "unc"
+        },
+        {
+            "name": "samp.unc.toc",
+            "size": "6156",
+            "path": "texdb/vehs_2/samp.unc.toc",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_2/samp.unc.toc",
+            "gpu": "unc"
+        },
+        {
+            "name": "samp.etc.dat",
+            "size": "150358240",
+            "path": "texdb/vehs_3/samp.etc.dat",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_3/samp.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "samp.etc.tmb",
+            "size": "17952",
+            "path": "texdb/vehs_3/samp.etc.tmb",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_3/samp.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "samp.etc.toc",
+            "size": "1316",
+            "path": "texdb/vehs_3/samp.etc.toc",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_3/samp.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "samp.txt",
+            "size": "17194",
+            "path": "texdb/vehs_3/samp.txt",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_3/samp.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.unc.dat",
+            "size": "33150952",
+            "path": "texdb/vehs_3/samp.unc.dat",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_3/samp.unc.dat",
+            "gpu": "unc"
+        },
+        {
+            "name": "samp.unc.tmb",
+            "size": "89216",
+            "path": "texdb/vehs_3/samp.unc.tmb",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_3/samp.unc.tmb",
+            "gpu": "unc"
+        },
+        {
+            "name": "samp.unc.toc",
+            "size": "6156",
+            "path": "texdb/vehs_3/samp.unc.toc",
+            "url": "http://14.225.207.220/datamobile/files/texdb/vehs_3/samp.unc.toc",
+            "gpu": "unc"
         }
     ]
 }
