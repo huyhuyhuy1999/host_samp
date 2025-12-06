@@ -1,9 +1,9 @@
 [
     {
-        "name": "app-release-ver49.apk",
-        "version": 49, 
+        "name": "app-release-ver54.apk",
+        "version": 54, 
         "path": "api-beta/app/",
-        "url": "https://raw.githubusercontent.com/huyhuyhuy1999/host_samp/refs/heads/main/app-release-ver49.apk",
-        "size": 25198665
+        "url": "https://raw.githubusercontent.com/huyhuyhuy1999/host_samp/refs/heads/main/app-release-ver54.apk",
+        "size": 29022269
     }
 ]
