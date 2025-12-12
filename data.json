@@ -1386,12 +1386,6 @@
         "url": "http://14.225.207.220/datamobile/files-2.1/data/script/scriptv1.img"
     },
     {
-        "name": "loadingvideo.mp4",
-        "size": "51163382",
-        "path": "MGLoader/",
-        "url": "http://14.225.207.220/datamobile/files-2.1/MGLoader/loadingvideo.mp4"
-    },
-    {
         "name": "effects.fxp",
         "size": "616708",
         "path": "models/",
