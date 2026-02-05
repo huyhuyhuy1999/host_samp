@@ -365,13 +365,6 @@
             "gpu": "all"
         },
         {
-            "name": "azvoice.log",
-            "size": "0",
-            "path": "AZVoice/azvoice.log",
-            "url": "http://14.225.207.220/datamobile/files/AZVoice/azvoice.log",
-            "gpu": "all"
-        },
-        {
             "name": "360Default1280x720.cfg",
             "size": "10898",
             "path": "data/360Default1280x720.cfg",

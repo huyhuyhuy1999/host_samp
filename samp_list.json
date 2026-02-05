@@ -30,7 +30,7 @@
         },
         {
             "name": "SAMP.ide",
-            "size": "106456",
+            "size": "106996",
             "path": "SAMP/SAMP.ide",
             "url": "http://14.225.207.220/datamobile/files/SAMP/SAMP.ide",
             "gpu": "all"
@@ -50,10 +50,10 @@
             "gpu": "all"
         },
         {
-            "name": "TIMECYC.DAT",
+            "name": "timecyc.dat",
             "size": "40037",
-            "path": "SAMP/TIMECYC.DAT",
-            "url": "http://14.225.207.220/datamobile/files/SAMP/TIMECYC.DAT",
+            "path": "SAMP/timecyc.dat",
+            "url": "http://14.225.207.220/datamobile/files/SAMP/timecyc.dat",
             "gpu": "all"
         },
         {
